@@ -1,5 +1,7 @@
 
 
+- ga verder in je `space_programming` laravel project
+
 - maak nu een extra controller
     - ContactController
         - zorg dat deze een contact view teruggeeft

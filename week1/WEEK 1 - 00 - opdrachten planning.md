@@ -1,4 +1,4 @@
-# WEEK 1 - 1/4/2026
+# WEEK 1, Les 1  + 2
 
 # module 1 Getting started 
 

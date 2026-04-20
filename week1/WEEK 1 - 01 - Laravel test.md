@@ -1,7 +1,7 @@
 # EXTRA VERPLICHT
 - Maak een map M8Prog (bij je school werk zoals altijd)
 - run dit commando:
-    > `laravel new opdracht_new_app`
+    > `laravel new space_programming`
 - je moet opties kiezen:
     - standaard TOT de AI, dat op NO
         > Dus: NONE, PEST, NO (even wachten), SQLite (wachten) yes run npm
