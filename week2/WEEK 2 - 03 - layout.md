@@ -8,7 +8,7 @@
     > verwachte uitkomst:
     > een nieuwe map onder views: layouts
     > - daarin een nieuwe layout file
-    > - je welcome en concact views hebben geen headers etc meer alleen de content section
+    > - je welcome en contact views hebben geen headers etc meer alleen de content section
 
     
 ## klaar
