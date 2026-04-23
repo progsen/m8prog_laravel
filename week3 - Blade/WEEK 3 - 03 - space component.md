@@ -2,8 +2,7 @@
 - ga verder in je `space_programming` laravel project
 
 
-
-## opdracht:
+## Componenten:
 
 - gebruik nu componenten om:
     - je nav als component te maken
@@ -14,6 +13,7 @@
 
 - je files ongeveer:
     > ![](img/comps.PNG)
+    
 ## features
 
 - gebruik AI om je data uit te breiden met language features

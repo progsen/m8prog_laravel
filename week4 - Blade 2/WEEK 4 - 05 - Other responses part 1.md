@@ -5,9 +5,4 @@
 # 2) API: the return of the JSON
 > TEACHER NOTE:de routing met links is lastig
 
-> TEACHER NOTE:minder belangrijk::
-# 3) Scrolls of the Dungeon
-# 4) Excel-sior
-# 5) Spreadsheet Saviors
-# 6) Response types
-
+- maak nu `#WEEK 4 - 05 - x app layout.md`
