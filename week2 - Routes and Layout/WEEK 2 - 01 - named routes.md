@@ -18,13 +18,20 @@
     > in laravel kan je links maken op basis van de name van een route:
 
 ```php
+
+    Route::get('/afspraak/{id}', [AfspraakController::class, 'get'])->name('afspraak')
+    
+        <a href="{{ route('afspraak',['get'=> 1]) }}">afpsraak 1</a>
+
     //in web.php bij je route CHAIN je:
     Route::get('/mijnpagina', [PaginaController::class, 'get'])->name('mijnpagina')
     //->name is een CHAIN, wat uit Route::get komt is een object waar je weer functions op kan gebruiken zoals name(...)
 
     // in je blade kan je dan:
     <a href="{{ route('mijnpagina') }}"...
+    
 ```
+
 
 
 - link nu in je nav naar contact op deze manier
