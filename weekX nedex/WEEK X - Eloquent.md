@@ -1,8 +1,8 @@
 # Level 1/4: Learning to speak
 # 1)Modeling success
-    tinker make model
+> TEACHER note:   tinker make model
 # 1)Factory finish
-    factory data
+> TEACHER note:  factory data
 # 1)Todo: build todo app
 # 1)On the same page
 
