@@ -6,6 +6,10 @@
     - standaard TOT de AI, dat op NO
         > Dus: NONE, PEST, NO (even wachten), SQLite (wachten) yes run npm
 
+# GIT
+
+- maak natuurlijk een git repo voor dit project
+
 # TESTEN
 - ga naar de directory in de CMD
     > opdracht_new_app
@@ -20,4 +24,4 @@
 
 ## Verder
 - ga nu verder in:
-    > `WEEK 1 - 00 - opdrachten planning.md`
+    > `WEEK 1 - 00 - installatie.md`
