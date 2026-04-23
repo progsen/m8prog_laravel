@@ -1,8 +1,6 @@
 # WEEK 2, Les 1  
+
 # module 2 HTTP & Routing
-
-# 2) HTTP & Routing
-
 
 # Level 1/2: Hello, Laravel!
 ## 1) Laravel, a web framework

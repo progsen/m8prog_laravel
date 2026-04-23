@@ -29,8 +29,6 @@
 > ![](img/quote.PNG)
 
 
-- 
-
 ## 4) Resources
 ## 5) VSCode is Laravel's BFF
 ## 6) General knowledge 

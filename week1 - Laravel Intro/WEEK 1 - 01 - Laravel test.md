@@ -1,4 +1,4 @@
-# EXTRA VERPLICHT
+# START
 - Maak een map M8Prog (bij je school werk zoals altijd)
 - run dit commando:
     > `laravel new space_programming`

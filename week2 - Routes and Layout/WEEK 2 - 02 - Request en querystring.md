@@ -3,6 +3,7 @@
 # Level 2/2: Request for information
 ## The request
 ## The request input
+> TEACHER NOTE: querystrings
 
 - maak de opdracht in nexed
 - de opdracht in 

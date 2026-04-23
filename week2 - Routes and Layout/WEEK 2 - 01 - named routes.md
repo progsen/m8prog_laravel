@@ -1,7 +1,9 @@
 
-
+## start
 - ga verder in je `space_programming` laravel project
 
+
+## controller
 - maak nu een extra controller
     - ContactController
         - zorg dat deze een contact view teruggeeft
@@ -9,24 +11,28 @@
             > - maak even een nep adres voor het bedrijf `'space programming'`
             >![](img/contact.PNG)
 
+
+## navigatie
 - link in nav maken
     - lees
-    > in laravel kan je links maken op basis van de name van een route
+    > in laravel kan je links maken op basis van de name van een route:
 
 ```php
-//in web.php bij je route CHAIN je:
+    //in web.php bij je route CHAIN je:
     Route::get('/mijnpagina', [PaginaController::class, 'get'])->name('mijnpagina')
+    //->name is een CHAIN, wat uit Route::get komt is een object waar je weer functions op kan gebruiken zoals name(...)
 
     // in je blade kan je dan:
-    {{ route('mijnpagina') }}
+    <a href="{{ route('mijnpagina') }}"...
 ```
+
+
 - link nu in je nav naar contact op deze manier
 - en link terug naar home
     > gebruik named routes
     > !!let op:
     > - het stuk ` @if (Route::has('login'))` in je nav
     > - gebruik een @else om JOUW nav erbij te zetten
-- laat het zien aan de docent dat het werkt
 
 
 ## klaar
