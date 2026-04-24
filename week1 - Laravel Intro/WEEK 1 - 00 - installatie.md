@@ -18,7 +18,7 @@
     > zie documentatie hierboven van laravel)
 - VSCODE: https://blog.stackademic.com/vscode-for-php-and-laravel-ee04a37c1047
 
-# !! DOE NU (voordat je verder gaat in nexed)
+# !! DOE NU (voordat je verder gaat in nexEd)
 - de opdracht in 
     > `WEEK 1 - 01 - Laravel test.md`
 
