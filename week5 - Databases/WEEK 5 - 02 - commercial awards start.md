@@ -15,14 +15,11 @@
     - de tabellen uit de ERD
     - let op de volgorde! de tabellen DIE door andere nodig zijn moeten eerst:
         ```
-        php artisan make:model company -mf
-        php artisan make:model brand -mf
-        php artisan make:model commercial -mf
+        php artisan make:model Company -mf
+        php artisan make:model Brand -mf
+        php artisan make:model Commercial -mf
         ```
 
-        php artisan make:model company -mf
-        php artisan make:model brand -mf
-        php artisan make:model commercial -mf
 
 ## CHECK
 - controlleer je files:

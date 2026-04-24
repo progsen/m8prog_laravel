@@ -9,6 +9,8 @@ Elke T‑shirt heeft:
 
 Je ontwerpt eerst de database (ERD) en bouwt daarna de modellen, controllers, views en routes volgens Laravel‑best practices.
 
+voorbeeld uitwerking:
+>![](img/site.PNG)
 ## Requirements
 
 - Je gebruikt een layout (Blade layout)
@@ -22,6 +24,8 @@ Je ontwerpt eerst de database (ERD) en bouwt daarna de modellen, controllers, vi
 - Je maakt lijstpagina’s:
   - T‑shirts per categorie
   - T‑shirts per kleur
+  - Categories (doorclick naar tshirts per categorie)
+  - Kleuren (doorclick naar tshirts per kleur)
 - Je zorgt dat alle pagina’s naar elkaar doorlinken
 
 ## Startcategorieën
@@ -53,8 +57,8 @@ Je ontwerpt eerst de database (ERD) en bouwt daarna de modellen, controllers, vi
   - Category
   - Color
 - [ ] Relaties bepalen:
-  - Tshirt behoort tot Category
-  - Tshirt behoort tot Color
+  - Tshirt heeft een Category
+  - Tshirt heeft een Color
 - [ ] Attributen bepalen:
   - Tshirt: id, text_line_1, text_line_2, image_path, color_id, category_id
   - Category: id, name
@@ -88,6 +92,8 @@ Je ontwerpt eerst de database (ERD) en bouwt daarna de modellen, controllers, vi
   - [ ] Detailpagina T‑shirt
   - [ ] T‑shirts per categorie
   - [ ] T‑shirts per kleur
+  - [ ] categorie lijst
+  - [ ] kleuren lijst
 
 ## 7. Views
 - [ ] Layoutbestand maken (app.blade.php)
@@ -111,4 +117,3 @@ Je ontwerpt eerst de database (ERD) en bouwt daarna de modellen, controllers, vi
 - [ ] Controleren of alle pagina’s werken
 - [ ] Controleren of alle links kloppen
 - [ ] Controleren of detailpagina’s correct laden
-- [ ] Controleren of filters correct werken
