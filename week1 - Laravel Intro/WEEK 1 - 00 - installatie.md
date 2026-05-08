@@ -4,7 +4,23 @@
 
 # 1) Introduction
 
+- NEXED: 
+    - doe de module `1) Introduction` in Nexed
 # 2) Installing the framework
+
+- lees:
+    ```
+    om laravel te kunnen draaien heb je het volgende nodig:
+    - een php installatie (met een recente versie)
+        - en de juiste extensions aan
+    - een composer installatie
+    - npm moet geinstalleerd zijn
+    - je moet een .env file hebben die werkt
+    ```
+    
+- NEXED: 
+    - doe de module `2) Installing the framework` in Nexed
+        > Hieronder staan tips! lees die eerst even (lees niet doe)
 
 >LET OP lees en doe wat hieronder staat (dit helpt):
 > Je krijgt deze link https://laravel.com/docs/13.x/installation
@@ -29,6 +45,8 @@
 > ![](img/quote.PNG)
 
 
+
+- maak de opdrachten in nexEd:
 ## 4) Resources
 ## 5) VSCode is Laravel's BFF
 ## 6) General knowledge 

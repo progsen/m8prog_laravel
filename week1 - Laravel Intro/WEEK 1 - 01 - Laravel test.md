@@ -13,8 +13,8 @@
 # TESTEN
 - ga naar de directory in de CMD
     > opdracht_new_app
-    - run nu php artisan serve
-        > geen npm run dev VITE wil nog wel eens problemen geven
+    - run nu `php artisan serve`
+        > voor nu geen npm run dev/composer run dev VITE wil nog wel eens problemen geven door ipv6 en urls
     - open http://127.0.0.1:8000/
         - zie je laravel?
         > ![](img/laravel.PNG)
